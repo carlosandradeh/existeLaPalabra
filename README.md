@@ -12,6 +12,7 @@ por definicón de Árbol AVL de O(log n). Usando esta estructura de datos, nos d
 usamos otras estructuras como lo sería una lista o un arreglo.
 
 Para ejecutar el programa usar los comandos:
+
 ```
 $ mvn compile
 ```
@@ -21,3 +22,4 @@ $ mvn install
 ...
 $ java -jar target/existePalabra.jar
 ```
+
