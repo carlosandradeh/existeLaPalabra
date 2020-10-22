@@ -15,9 +15,11 @@ Para ejecutar el programa usar los comandos:
 	```
 	$mvn compile
 	```
+	
 	```
 	$mvn install
 	```
+	
 	```
 	$java -jar target/existePalabra.jar
 	```
