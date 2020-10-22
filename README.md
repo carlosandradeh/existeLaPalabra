@@ -18,8 +18,6 @@ Para ejecutar el programa usar los comandos:
 	
 	```
 	$mvn install
-	```
-	
-	```
+	...
 	$java -jar target/existePalabra.jar
 	```
